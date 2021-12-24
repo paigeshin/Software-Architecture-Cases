@@ -16,6 +16,10 @@
 4. Select the Technology Stack
 5. Design the Architecture
 
+### Google Drive
+
+https://drive.google.com/drive/folders/1mYIckYG-r825iEzj6uHAVc2ISHUpEMRA
+
 ### Documents
 
 [Architecture Process](https://www.notion.so/Architecture-Process-7f9b6060204a4e70ae4b1a94f1775355)
