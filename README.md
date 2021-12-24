@@ -16,6 +16,8 @@
 4. Select the Technology Stack
 5. Design the Architecture
 
+### Documents
+
 [Architecture Process](https://www.notion.so/Architecture-Process-7f9b6060204a4e70ae4b1a94f1775355)
 
 [Case Study #1 ](https://www.notion.so/Case-Study-1-8de19287f1294ddd8eb554ffcf97d136)
